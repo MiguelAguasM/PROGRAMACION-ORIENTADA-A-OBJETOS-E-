@@ -4,7 +4,7 @@ import subprocess
 def limpiar_pantalla():
     """
     Nueva función implementada para limpiar la terminal según el sistema operativo.
-    'cls' es para Windows y 'clear' para Mac o Linux, porque en mi soy usuario de una Macbook M4.
+    'cls' es para Windows y 'clear' para Mac o Linux, porque en mi caso soy usuario de una Macbook M4.
     """
     os.system('cls' if os.name == 'nt' else 'clear')
 
