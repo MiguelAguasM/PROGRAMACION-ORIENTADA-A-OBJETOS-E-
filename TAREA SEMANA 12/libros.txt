@@ -1,0 +1,5 @@
+Cien Años de Soledad,Gabriel García Márquez,Novela,1
+Don Quijote de la Mancha,Miguel de Cervantes,Clásico,978-8420412146
+El Principito,Antoine de Saint-Exupéry,Infantil,978-0156013987
+Steve Jobs,Walter Isaacson,Biografía,978-1451648539
+El Código Da Vinci,Dan Brown,Suspenso,978-0307474278
