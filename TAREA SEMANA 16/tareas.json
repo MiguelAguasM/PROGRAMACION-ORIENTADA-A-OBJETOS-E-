@@ -1,0 +1,30 @@
+[
+    {
+        "texto": "Realizar evaluacion de POO",
+        "completada": false
+    },
+    {
+        "texto": "Subir tarea de POO a GitHub",
+        "completada": true
+    },
+    {
+        "texto": "Realizar examen de estadistica",
+        "completada": true
+    },
+    {
+        "texto": "Compra Agua",
+        "completada": false
+    },
+    {
+        "texto": "Comprar zapatos",
+        "completada": true
+    },
+    {
+        "texto": "Realizar tarea de matematicas",
+        "completada": true
+    },
+    {
+        "texto": "Pagar el Internet",
+        "completada": false
+    }
+]
